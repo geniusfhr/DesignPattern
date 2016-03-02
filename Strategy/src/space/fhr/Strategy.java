@@ -9,6 +9,7 @@ package space.fhr;
  */
 
 
+//策略接口
 public interface Strategy {
 
     //计算平均分

@@ -1,6 +1,7 @@
 package space.fhr;
 
-import org.w3c.dom.NameList;
+
+//Main类 作为顶层类 程序的入口 管理整个应用
 
 public class Main {
 
@@ -23,6 +24,7 @@ public class Main {
     }
 }
 
+//Person类
 class Person {
 
     private String name;            //姓名
@@ -41,4 +43,3 @@ class Person {
         return score;
     }
 }
-

@@ -8,6 +8,8 @@ package space.fhr;
  *
  */
 
+
+//接口的环境描述 接口的应用
 public class ComputerAverage {
 
     Strategy strategy;                                  //策略接口
@@ -24,7 +26,4 @@ public class ComputerAverage {
             return strategy.computerAverage(score);
         }
     }
-
-
-
 }
