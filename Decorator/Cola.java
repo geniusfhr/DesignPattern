@@ -10,7 +10,6 @@ package space.fhr;
 
 public class Cola extends Beverage {
 
-
     Cola() {
         this.description = "主饮料(可乐)";
     }
